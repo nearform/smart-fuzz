@@ -3,6 +3,8 @@ Fuzz test Hapi APIs based on route validation rules
 
 Example code used in "[Avoiding Common Hurdles in Unit Testing](https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/)." 
 
+## About…
+
 While there are differing opinions on what level of code coverage is desirable and whether there are diminishing returns when moving from say 90% to 100% code coverage, many developers agree that code coverage tests are beneficial.
 
 Just loading your code gets you 60-70% code coverage, so we are really only talking about coverage for that last 30-40%. Using smart fuzzing can boost that starting point a little more towards 100%, with little additional effort on your part.
