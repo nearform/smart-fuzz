@@ -1,5 +1,8 @@
 'use strict'
 
+// Created by William Riley-Land
+// Copyright © 2018 NearForm Ltd.
+
 const Felicity = require('felicity')
 const Fetch = require('node-fetch')
 const Joi = require('joi')
