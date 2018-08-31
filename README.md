@@ -54,4 +54,5 @@ test('endpoints do not time out and any errors are caught', async () => {
 ```
 
 Created by William Riley-Land
+
 Copyright © 2018 NearForm Ltd.
